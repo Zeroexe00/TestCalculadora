@@ -1,0 +1,5 @@
+C:\Users\exe_6\Desktop\Zeroexe\Proyectos VS\Calculadora\EjercicioTDD\bin\Debug\EjercicioTDD.dll
+C:\Users\exe_6\Desktop\Zeroexe\Proyectos VS\Calculadora\EjercicioTDD\bin\Debug\EjercicioTDD.pdb
+C:\Users\exe_6\Desktop\Zeroexe\Proyectos VS\Calculadora\EjercicioTDD\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\exe_6\Desktop\Zeroexe\Proyectos VS\Calculadora\EjercicioTDD\obj\Debug\EjercicioTDD.dll
+C:\Users\exe_6\Desktop\Zeroexe\Proyectos VS\Calculadora\EjercicioTDD\obj\Debug\EjercicioTDD.pdb
